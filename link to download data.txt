@@ -1,0 +1,8 @@
+The data was available in kaggle - https://www.kaggle.com/yelp-dataset/yelpdataset
+. The dataset was available in Json format. We downloaded the files in json
+format and converted them to csv. We used the files, business.csv, user.csv and
+review.csv to create our dataset.
+We used these particular files since they contained:
+? business.csv: business attributes, business categories, business ids and city
+? user.csv: user id, average stars
+? review.csv: user id, business id, text, date, useful, cool, funny
